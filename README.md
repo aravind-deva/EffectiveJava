@@ -9,7 +9,7 @@ Effective Java by Joushua Boch.
 
 _Example_: **SerializationProxyPattern** is a widely used pattern to secure classes deserialization. It has a corresponding test **SerializationProxyPattTest**
 
-#Contribute
+# Contribute
 The solutions have been tested  with a given set of constraints.However , in case you find a bug, please raise an issue.Kindly fork the repo and create a pull request to merge into the source repo.
 
 
