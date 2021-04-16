@@ -12,5 +12,8 @@ _Example_: **SerializationProxyPattern** is a widely used pattern to secure clas
 # Contribute
 The solutions have been tested  with a given set of constraints.However , in case you find a bug, please raise an issue.Kindly fork the repo and create a pull request to merge into the source repo.
 
+# License
+Licensed under [LICENSE](LICENSE)
+
 
 
